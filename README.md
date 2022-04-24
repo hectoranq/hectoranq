@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hola me llamo Ivan Aquino y me gusta considerarme un Backend Developer y FrontEnd Developer, me desenvuelvo con la tecnología que se adapte al modelo del negocio. Manejo los lenguajes de programacion .NET (C#), TypeScript and Java. Sólidos conocimientos en gestión de base de datos SQL (Postgres y SQL Server). Además que he laborado como desarrollador web, analista de datos y casos de UX Designe.
+Hola me llamo Ivan Aquino y me gusta considerarme un Backend Developer y FrontEnd Developer, me desenvuelvo con la tecnología que se adapte al modelo del negocio. Manejo los lenguajes de programacion .NET (C#), TypeScript, Java, Swift y Objetive-C. Sólidos conocimientos en gestión de base de datos SQL (Postgres y SQL Server). Además que he laborado como desarrollador web, analista de datos y casos de UX Designe.
 
 ## Programming languages
 * C# (.NET y Net Core) - Principal
