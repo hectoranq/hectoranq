@@ -5,6 +5,7 @@ Hola me llamo Ivan Aquino y me gusta considerarme un Backend Developer y FrontEn
 ## Programming languages
 * C# (.NET y Net Core) - Principal
 * Swift, SwiftUI y Objetive - C
+* Kotlin Android
 * SQL (MySql and SQL Server)
 * Javascript, TypeScript
 
